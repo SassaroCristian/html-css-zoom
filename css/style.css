@@ -25,12 +25,17 @@ main {
     overflow-y: scroll;
 }
 
+p {
+    color: white;
+    font-size: 10px;
+}
+
 i {
     color: #ffffff;
   }
 
 .cards {
-    background-image:url(https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/1675792402036-F2HOUK39B3W7BI4ON6VI/dmt-monster-children.jpg?format=750w);
+    background-image:url('https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/1675792402036-F2HOUK39B3W7BI4ON6VI/dmt-monster-children.jpg?format=750w');
     background-size: cover;
     height: 150px;
 }
@@ -46,5 +51,15 @@ i {
     border-radius: 5px;
     color: #ffffff;
     margin-right: 5px;
+    text-align: center;
+}
+
+#end-meet {
+    background-color: rgb(91, 91, 93);
+    height: 100%;
+    width:120px;
+    color: red;
+    font-size: 16px;
+    padding-top: 30px;
     text-align: center;
 }
