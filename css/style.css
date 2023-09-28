@@ -35,7 +35,7 @@ i {
   }
 
 .cards {
-    background-image:url(https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/1675792402036-F2HOUK39B3W7BI4ON6VI/dmt-monster-children.jpg?format=750w);
+    background-image:url('https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/1675792402036-F2HOUK39B3W7BI4ON6VI/dmt-monster-children.jpg?format=750w');
     background-size: cover;
     height: 150px;
 }
