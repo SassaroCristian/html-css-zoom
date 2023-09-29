@@ -27,7 +27,7 @@ main {
 
 p {
     color: white;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 i {
@@ -62,4 +62,10 @@ i {
     font-size: 16px;
     padding-top: 30px;
     text-align: center;
+}
+
+#name-tag {
+    top: 124px;
+    padding: 3px;
+    background: rgba(120, 120, 120, 0.7)
 }
